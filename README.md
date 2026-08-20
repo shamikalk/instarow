@@ -121,5 +121,3 @@ For issues, suggestions, or feature requests:
 ---
 
 <p align="center"> <b>Made with ❤️ By MR.Shamika</b><br> <i>No login . No app . Unlimited & free.</i> </p>
-
----
