@@ -7,17 +7,16 @@
 
 ## 🧩 Table of Contents
 
-- [What is Instarow?](#what-is-instarow)
-- [Key Features](#key-features)
-- [How to Use](#how-to-use)
+- [What is Instarow?](#-what-is-instarow)
+- [Key Features](#-key-features)
+- [How to Use](#️-how-to-use)
   - [Download a Video or Reel](#1-download-a-video-or-reel)
   - [Download a Photo](#2-download-a-photo)
   - [Download a Carousel Post](#3-download-a-carousel-post)
   - [Extract Audio Only (MP3)](#4-extract-audio-only-mp3)
-- [What You Can Download](#what-you-can-download)
-- [FAQ](#faq)
-- [Screenshots — Desktop & Mobile](#screenshots--desktop--mobile)
-- [Credits & Legal](#credits--legal)
+- [What You Can Download](#-what-you-can-download)
+- [FAQ](#-faq)
+- [Credits & Support](#-contact--support)
 
 ---
 
